@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-aws
+boto3
+faiss-cpu
+pymupdf
+python-dotenv
