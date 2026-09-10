@@ -1,6 +1,6 @@
 
 
-# 🛕 Temple Chatbot Using RAG-LLM
+# 🛕 Chatbot Using RAG-LLM
 
 This project implements a **Retrieval-Augmented Generation (RAG)** based chatbot for the **Travancore Temple**, designed to provide accurate, concise, and context-grounded answers using temple rules, regulations, and FAQs stored in document form.
 
